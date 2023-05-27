@@ -1,6 +1,25 @@
 # 2022_Sales-Lead-Convertion-Predictive-Analytics-Reports
-## [R|SVM|Tableau]
+`[R | SVM | Tableau]`
 
-This repository shows the final reports of the course "Domain Applications of Predictive Analytics", in which the main goal was to select a real-world data set (E-learning courses), analyse it and propose and Predictive solution for the required purpose (to identify potential Leads).
+Welcome to the "Sales Lead Conversion Predictive Analytics Reports" repository! This repository showcases the final reports from the course "Domain Applications of Predictive Analytics." The primary objective of this course was to select a real-world dataset related to E-learning courses, analyze it, and propose a predictive solution for identifying potential leads.
 
-**Abstract**—Today, leads are the motivation for any business. With the rise of subscription-based business models, especially among start-ups, the ability to convert leads into paying cus- tomers has never been more important. A ”lead” is a potential consumer who is interested in purchasing your goods or service. Marketing and sales departments devote a large amount of time, money, and effort to lead management, which we define as the three critical phases of lead creation, qualifying, and monetizing. In this research, a project design is provided in relation to analysis of existing information on leads who want to register in a program at an academic institution, and the data is leveraged for predictive analytics.
+**Abstract:**
+
+In today's business landscape, leads play a pivotal role as they serve as the driving force behind any successful organization. With the surge of subscription-based business models, particularly among start-ups, the ability to convert leads into paying customers has become more crucial than ever. A lead refers to a prospective customer who demonstrates interest in purchasing a product or service. Marketing and sales departments dedicate substantial time, resources, and effort to lead management, encompassing three critical phases: lead generation, qualification, and monetization.
+
+This research project focuses on designing a project that analyzes existing information about leads interested in enrolling in a program at an academic institution. Leveraging this data, predictive analytics techniques are employed to develop a solution for lead management.
+
+## Repository Contents:
+
+1. Final Reports: The comprehensive reports summarizing the findings, methodologies, and results obtained during the analysis and predictive modeling process.
+1. Code Implementation: R scripts showcasing the implementation of Support Vector Machine (SVM) algorithms for predictive analytics.
+1. Visualizations: Tableau dashboards and visualizations illustrating key insights and patterns discovered from the analysis.
+
+## How to Explore:
+
+1. Visit the repository to access the final reports, code implementation, and visualizations related to sales lead conversion predictive analytics.
+1. Review the final reports to gain an understanding of the project objectives, data analysis methodologies, and predictive modeling techniques employed.
+1. Explore the code implementation to delve into the R scripts showcasing the utilization of Support Vector Machine algorithms for lead conversion prediction.
+1. Examine the Tableau dashboards and visualizations to visualize and interpret the key insights derived from the data analysis process.
+
+This repository serves as a testament to the application of predictive analytics in improving lead management. By harnessing the power of data analysis and machine learning algorithms, organizations can effectively identify potential leads and enhance their conversion rates. Join us on this journey of leveraging predictive analytics to drive business success and optimize sales strategies.
